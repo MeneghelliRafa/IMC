@@ -57,3 +57,9 @@ body {
     left: 0;
     border-radius: 3px;
 }
+
+.input-box label {
+    font-size: 1.1rem;
+    color: #cbd5e1;
+    font-weight: 500;
+}
